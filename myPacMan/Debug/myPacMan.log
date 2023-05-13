@@ -1,0 +1,7 @@
+﻿  PacManFC.cpp
+  RedGhostFC.cpp
+  正在生成代码...
+D:\Programing\C++\myPacMan\myPacMan\RedGhostFC.cpp(179): warning C4715: “GetPoint_R”: 不是所有的控件路径都返回值
+D:\Programing\C++\myPacMan\myPacMan\RedGhostFC.cpp(223): warning C4715: “getMin4_R”: 不是所有的控件路径都返回值
+D:\Programing\C++\myPacMan\myPacMan\RedGhostFC.cpp(204): warning C4715: “IsPointFree_R”: 不是所有的控件路径都返回值
+  myPacMan.vcxproj -> D:\Programing\C++\myPacMan\Debug\myPacMan.exe
